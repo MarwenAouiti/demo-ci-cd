@@ -10,6 +10,6 @@ public class HealthController {
 
     @GetMapping
     public String health() {
-        return "Api running like a beast!";
+        return "Api running like a beast! SIUUUUUUUUU";
     }
 }
